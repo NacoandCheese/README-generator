@@ -1,10 +1,10 @@
 
-#README generator
+# readme generator
     
-##Description
-Generates readme
+## Description
+generates readme
 
-##Table of Contents
+## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,27 +13,27 @@ Generates readme
 - [Tests](#tests)
 - [Questions](#questions)
 
-##Installation
-install inquirer
+## Installation
+npm init npm install inquirer
 
-##Usage
-generate read me
+## Usage
+generate professional readme
 
-##License
+## License
 This application is covered by the MIT license.
 
-##Contributing
+## Contributing
 
 
-##Tests
+## Tests
 
 
-##Questions
+## Questions
 Email me<br />
 <br />
 
-#Find me on GitHub: [Nacoandcheese](https://github.com/Nacoandcheese)<br />
+# Find me on GitHub: [Nacoandcheese](https://github.com/Nacoandcheese)<br />
 <br />
 
-#Email me with any questions: ndanna128@gmail.com<br /><br />
+# Email me with any questions: ndanna128@gmail.com<br /><br />
    
