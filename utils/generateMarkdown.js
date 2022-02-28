@@ -16,10 +16,10 @@ function generateMarkdown(data) {
 
     // Return sends data out of the function. 
     return `
-    #${data.projectTitle}
+    # ${data.projectTitle}
     
     ## Description
-        ${data.description}
+    ${data.description}
 
     ## Table of Contents
     - [Description](#description)
@@ -31,10 +31,10 @@ function generateMarkdown(data) {
     - [Questions](#questions)
 
     ## Installation
-        ${data.installation}
+    ${data.installation}
 
     ## Usage
-        ${data.usage}
+    ${data.usage}
 
     ## License
     ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
@@ -42,13 +42,13 @@ function generateMarkdown(data) {
     This application is covered by the ${data.license} license.
 
     ## Contributing
-        ${data.contributing}
+    ${data.contributing}
 
     ## Tests
-        ${data.tests}
+       ${data.tests}
 
     ## Questions
-        ${data.questions}<br />
+    ${data.questions}<br />
     <br />
 
     # Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />

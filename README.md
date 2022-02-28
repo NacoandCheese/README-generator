@@ -1,8 +1,8 @@
 
-    #README.md Generator
+    # README generator
     
     ## Description
-        Generates README.md
+    Generates README
 
     ## Table of Contents
     - [Description](#description)
@@ -14,10 +14,10 @@
     - [Questions](#questions)
 
     ## Installation
-        Used npm package inquirer
+    inquirer npm
 
     ## Usage
-        Generating a professional README.md
+    Generating professional read me
 
     ## License
     ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -25,16 +25,16 @@
     This application is covered by the MIT license.
 
     ## Contributing
-        
+    
 
     ## Tests
-        
+       
 
     ## Questions
-        Email me<br />
+    Email me<br />
     <br />
 
-    # Find me on GitHub: [NacoandCheese](https://github.com/NacoandCheese)<br />
+    # Find me on GitHub: [Nacoandcheese](https://github.com/Nacoandcheese)<br />
     <br />
 
     # Email me with any questions: ndanna128@gmail.com<br /><br />
