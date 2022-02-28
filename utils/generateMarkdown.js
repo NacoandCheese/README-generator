@@ -16,44 +16,44 @@ function generateMarkdown(data) {
 
     // Return sends data out of the function. 
     return `
-    # ${data.projectTitle}
+#${data.projectTitle}
     
-    ## Description
-    ${data.description}
+##Description
+${data.description}
 
-    ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+##Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-    ## Installation
-    ${data.installation}
+##Installation
+${data.installation}
 
-    ## Usage
-    ${data.usage}
+##Usage
+${data.usage}
 
-    ## License
-    This application is covered by the ${data.license} license.
+##License
+This application is covered by the ${data.license} license.
 
-    ## Contributing
-    ${data.contributing}
+##Contributing
+${data.contributing}
 
-    ## Tests
-    ${data.tests}
+##Tests
+${data.tests}
 
-    ## Questions
-    ${data.questions}<br />
-    <br />
+##Questions
+${data.questions}<br />
+<br />
 
-    # Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
-    <br />
+#Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
+<br />
 
-    # Email me with any questions: ${data.email}<br /><br />
-    `;    
+#Email me with any questions: ${data.email}<br /><br />
+   `;    
 }
 
 module.exports = generateMarkdown;
