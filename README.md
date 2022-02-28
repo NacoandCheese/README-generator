@@ -1,8 +1,8 @@
 
-    # README generator
+    # ReadMe generator
     
     ## Description
-    Generates README
+    generates read me
 
     ## Table of Contents
     - [Description](#description)
@@ -14,21 +14,19 @@
     - [Questions](#questions)
 
     ## Installation
-    inquirer npm
+    install inquirer npm
 
     ## Usage
-    Generating professional read me
+    generating readme
 
     ## License
-    ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-    <br/>
     This application is covered by the MIT license.
 
     ## Contributing
     
 
     ## Tests
-       
+    
 
     ## Questions
     Email me<br />
